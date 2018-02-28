@@ -1,0 +1,16 @@
+{
+  "name": "db-load-tester",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "author": "= <=>",
+  "license": "ISC",
+  "dependencies": {
+    "@types/knex": "^0.14.7",
+    "@types/mysql": "^2.15.2",
+    "@types/node": "^9.4.6",
+    "knex": "^0.14.4",
+    "mysql": "^2.15.0",
+    "typescript": "^2.7.2"
+  }
+}
